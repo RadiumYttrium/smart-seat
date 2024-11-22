@@ -1,4 +1,4 @@
-/** @author: Raymond Caramto III **/
+/** @author: Ryan S Keplare **/
 
 #include <SoftwareSerial.h>
 SoftwareSerial mySerial(8, 9); // RX, TX  
